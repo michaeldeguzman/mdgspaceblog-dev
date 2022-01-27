@@ -26,6 +26,9 @@ export default function Home() {
             <Categories />
         </div>
       </div>
+      <div>
+        
+      </div>
     </div>
   )
 }
